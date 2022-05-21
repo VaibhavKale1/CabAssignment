@@ -1,0 +1,11 @@
+flasgger
+Flask
+gunicorn==19.7.1
+
+[develop]
+pytest-cov
+Flask
+flake8
+flasgger
+pytest
+gunicorn==19.7.1
