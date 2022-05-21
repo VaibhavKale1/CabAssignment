@@ -1,0 +1,9 @@
+*.yaml.j2
+*.pyc
+*.egg-info
+.cache
+.coverage
+htmlcov
+.pytest_cache/
+env-variables
+.idea/
